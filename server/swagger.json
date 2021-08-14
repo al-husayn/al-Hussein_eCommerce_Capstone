@@ -9,7 +9,7 @@
   },
   "info": {
     "version": "1.0.0",
-    "title": "PERN-Store",
+    "title": "LAMBA Electronics",
     "description": "A REST E-commerce API made with Express and Postgres.",
     "license": {
       "name": "Licensed under MIT",

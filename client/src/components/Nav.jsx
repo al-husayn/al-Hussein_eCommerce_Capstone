@@ -25,7 +25,7 @@ const Nav = () => {
               <li>
                 <Link to="/login">
                   <Button layout="link">
-                    <span>login</span>
+                    <span>Login</span>
                   </Button>
                 </Link>
               </li>
