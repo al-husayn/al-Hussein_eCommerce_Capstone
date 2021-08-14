@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "concurrently": "^6.2.1"
+    "concurrently": "^6.2.1",
+    "nodemon": "^2.0.12"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
